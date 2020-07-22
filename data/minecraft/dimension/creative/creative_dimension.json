@@ -1,0 +1,32 @@
+{
+  "type": "creative:creative_dimension",
+  "generator": {
+    "settings": {
+      "structures": {
+        "structures": {
+          "minecraft:swamp_hut": {
+                "spacing": 32,
+                "separation": 8,
+                "salt": 14357620
+            }
+        }
+      },
+      "layers": [
+        {
+          "height": 1,
+          "block": "minecraft:bedrock"
+        },
+        {
+          "height": 3,
+          "block": "minecraft:dirt"
+        },
+        {
+          "height": 1,
+          "block": "minecraft:grass_block"
+        }
+      ],
+      "biome": "minecraft:plains"
+    },
+    "type": "minecraft:flat"
+  }
+}
